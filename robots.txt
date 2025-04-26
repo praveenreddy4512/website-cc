@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cheezechoice.appenexus.tech/sitemap.xml
